@@ -1,0 +1,21 @@
+.winner {
+	color: #00cb12;
+}
+
+.loser {
+	color: #e50000;
+}
+
+html {
+	background: #000428; /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #81fbb8, #28c76f); /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(
+		to right,
+		#81fbb8,
+		#28c76f
+	); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.card-footer {
+	border-top: 0px;
+}
